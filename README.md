@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmant03
+- 👋 Hi, I’m Tejas Dhimant -  @dmant03
 - 👀 I’m interested in Devops, Cloud services (GCS,AWS,Azure), Bash, Linux, Python, Golang... 
 - 🌱 I’m currently learning Devops.
 - 💞️ I’m looking to collaborate on different projects. 
